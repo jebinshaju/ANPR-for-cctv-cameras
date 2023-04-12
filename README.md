@@ -1,2 +1,2 @@
 # ANPR for cctv cameras
- ANPR (Automatic number-plate recognition) camera reads any licence plates entering or leaving the pre-defined areas and saves them to a searchable data base.
+The ANPR (Automatic Number-Plate Recognition) project aims to develop a camera system that can read the license plates of vehicles entering or leaving pre-defined areas. The system will capture and store this information in a searchable database, allowing for easy retrieval of data by license plate or time. Additionally, the system will be integrated with a CCTV system to provide a comprehensive security solution. The project is expected to increase the efficiency and accuracy of tracking vehicle movements, and enhance the overall security of the designated areas.
